@@ -2,11 +2,11 @@
 name = "ctube"
 version = "0.2.0"
 description = ""
-authors = ["Simone Gentili <gensydev@gmail.com>"]
+authors = ["Simone Gentili <gensimone.git@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://pypi.org/project/ctube/"
-repository = "https://github.com/g3nsy/ctube"
+repository = "https://github.com/gensimone/ctube"
 keywords = ["innertube", "youtube", "youtube-music", "python", "download", "music", "client"]
 
 [tool.poetry.dependencies]
